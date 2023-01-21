@@ -1,0 +1,31 @@
+.about-info {
+    background-color: #fefae0;
+    text-align: center;
+    padding: 80px;
+    line-height: 20px;
+}
+
+.about-info span {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.about-info h3 {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.about-info p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.about-info a {
+    text-decoration: none;
+    background-color: #000;
+    color: rgb(249, 235, 235);
+    padding: 15px;
+    width: 100%;
+    border-radius: 6px;
+}

@@ -1,0 +1,26 @@
+.order {
+    text-align: center;
+    background-color: #c9e4ca;
+    padding: 80px;
+}
+
+.order h1 {
+    margin-bottom: 10px;
+}
+
+.order p {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+@media all and (max-width: 600px) {
+    .order p {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width: 480px) {
+    .order p {
+        font-size: 12px;
+    }
+}
