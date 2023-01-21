@@ -107,7 +107,7 @@
 .offer {
   text-align: center;
   padding: 80px;
-  background: url("../images/carlos-lindner-Ib6SfQQCHhE-unsplash.jpg");
+  background-image: url("../images/carlos-lindner-Ib6SfQQCHhE-unsplash.jpg");
   background-size: cover;
   background-position: center;
   min-height: 500px;
