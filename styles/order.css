@@ -1,6 +1,7 @@
 .order {
     text-align: center;
-    background-color: #c9e4ca;
+    /* background-color: #c9e4ca; */
+   background-color:  rgb(0, 225, 255);
     padding: 80px;
 }
 

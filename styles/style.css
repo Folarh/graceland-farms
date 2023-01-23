@@ -6,26 +6,18 @@
   padding: 0;
 }
 
-/* body {
-  background-image: url(../images/Asset\ 13.png);
-} */
 
-.container {
-  max-width: 1440px;
-  width: 100%;
-  /* border: 2px solid red; */
-}
 
 .nav-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
-  background-color: #44255e;
+  background-color: black;
 }
 
 .logo a {
-  color: #fff;
+  color: rgb(169, 220, 226);;
   font-size: 30px;
   text-decoration: none;
 }
@@ -42,12 +34,12 @@
 
 .nav-item a {
   text-decoration: none;
-  color: #da9434;
-  font-size: 20px;
+  color: rgb(0, 225, 255);
 }
+ 
 
 .nav-item a:hover {
-  text-decoration: underline;
+  color: grey;
 }
 
 .menu {
@@ -106,8 +98,8 @@
 
 .offer {
   text-align: center;
-  padding: 80px;
-  background-image: url("../images/carlos-lindner-Ib6SfQQCHhE-unsplash.jpg");
+  padding: 80px; 
+ background-image: url("../images/milos-prelevic-uWLvruHp8kY-unsplash.jpg");
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -116,7 +108,7 @@
 
 .offer h1 {
   font-size: 60px;
-  color: rgb(17, 12, 12);
+  color: rgb(0, 225, 255);
   margin-bottom: 80px;
 }
 
@@ -157,22 +149,26 @@
 .img-1 img,
 .img-2 img,
 .img-3 img {
-  width: 80%;
+  width: 400px;
   margin: 50px 25px 0 25px;
+  height: 300px;
+  border: 2px solid grey;
+  border-radius: 10px;
 }
 
 .img-1 p,
 .img-2 p,
 .img-3 p {
   margin-bottom: 30px;
-  color: #ff0000;
+  color: grey;
   /* letter-spacing: 2px; */
 }
 
 .last-part {
   text-align: center;
   padding: 80px;
-  background-color: #f3d1c3;
+  /* background-color: #f3d1c3; */
+  background-color: rgb(0, 225, 255);
 }
 
 .last-part p {

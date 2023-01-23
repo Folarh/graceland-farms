@@ -1,6 +1,6 @@
 .contact-info {
   text-align: center;
-  background-color: #e9edc9;
+  background-color: rgb(0, 225, 255);
   padding: 100px;
   height: 400px;
 }
@@ -11,7 +11,7 @@
 
 .contact-info p {
   font-size: 25px;
-  color: #197fba;
+  color: #fafafa;
   word-spacing: 5px;
 }
 
